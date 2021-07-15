@@ -30,7 +30,7 @@ in infix notation (for example x+y-z+x). Therefore, each operation has a variabl
 At the end of the expression is a single ‘$’ character to denote the end of the
 ‘program’. An expression produces a signed (i.e. positive or negative) integer as the output of the program.
 
-The following is an example valid program written in Calclnt.
+The following is an example valid program written in CalcZeta.
 INT x=7; INT y=3; : x+x-y$
 
 The output of the program is to evaluate the expression according to the precedence rules explained
