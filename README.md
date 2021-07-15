@@ -64,4 +64,4 @@ be carried out at each stage of parsing
                 op      ->  '+' | '-'
                 
 #### Activity Diagram
-  <img src="https://github.com/parmarakhil/Calcx/blob/main/Activity%20Diagram.png" alt=“activity diagram” />
+<p>  <img src="https://github.com/parmarakhil/Calcx/blob/main/Activity%20Diagram.png" alt=“activity diagram” /></p>
