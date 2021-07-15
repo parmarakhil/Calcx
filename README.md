@@ -1,6 +1,6 @@
 # Calcx
 
-This is an extension of interepter for CalcZeta language written in java. 
+This is an extension of interpreter for CalcZeta language written in java. 
 Keyword in CalcZeta language are written entirely in UPPER CASE eg : INT whereas variables are written in lower case eg: foo.
 White spaces like space, tab, new line are ignored.
 
